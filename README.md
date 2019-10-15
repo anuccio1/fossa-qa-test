@@ -1,4 +1,6 @@
 # fossa-qa-test
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanuccio1%2Ffossa-qa-test.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanuccio1%2Ffossa-qa-test?ref=badge_shield)
+
 
 1
 2
@@ -100,3 +102,7 @@
 98
 99
 100
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanuccio1%2Ffossa-qa-test.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanuccio1%2Ffossa-qa-test?ref=badge_large)
